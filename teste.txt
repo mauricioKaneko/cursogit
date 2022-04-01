@@ -2,5 +2,5 @@ Testando repositorio
 a
 beenheren
 
-[fxShow]="f
+[fxShow]="f   deadasdas
 "
