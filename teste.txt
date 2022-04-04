@@ -3,4 +3,4 @@ a
 beenheren
 
 [fxShow]="f   deadasdas  asfdasfgfg
-"
+" testando a = b
