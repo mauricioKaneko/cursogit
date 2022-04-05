@@ -4,3 +4,8 @@ beenheren
 
 [fxShow]="f   deadasdas  asfdasfgfg
 " testando a = b
+
+testtandfxFlexOffset="
+
+ojpojpojpofasjpj fpojas jiosdj jfdsa gij
+pjoijoij oijio "
